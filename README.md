@@ -31,6 +31,6 @@ The dashboard provides an in-depth exploration of trends in H1B visa application
 - **DAX** for calculations and KPI metrics
 - **CSV/Excel** as data source
 
-[H1b_visa_Analysis_Dashnoard](H1B_Visa_ANALYTICS.jpg)
+![H1b_visa_Analysis_Dashnoard](H1B_Visa_ANALYTICS.jpg)
 
 
