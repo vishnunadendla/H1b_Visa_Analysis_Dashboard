@@ -1,5 +1,7 @@
 #  H1B Visa Analysis Dashboard | Power BI
 
+![H1b_visa_Analysis_Dashnoard](H1B_Visa_ANALYTICS.jpg)
+
 This project presents an interactive Power BI dashboard that analyzes H1B visa data from **2014 to 2023**, offering detailed insights across sectors, employers, and application outcomes.
 
 ##  Overview
@@ -31,6 +33,5 @@ The dashboard provides an in-depth exploration of trends in H1B visa application
 - **DAX** for calculations and KPI metrics
 - **CSV/Excel** as data source
 
-![H1b_visa_Analysis_Dashnoard](H1B_Visa_ANALYTICS.jpg)
 
 
